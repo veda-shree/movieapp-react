@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/veda-shree/movieapp-react.git/static/css/main.5304e13d.css",
+    "main.js": "/veda-shree/movieapp-react.git/static/js/main.57210a3f.js",
+    "static/media/user.png": "/veda-shree/movieapp-react.git/static/media/user.3660209f7c1c029e69dc.png",
+    "index.html": "/veda-shree/movieapp-react.git/index.html",
+    "main.5304e13d.css.map": "/veda-shree/movieapp-react.git/static/css/main.5304e13d.css.map",
+    "main.57210a3f.js.map": "/veda-shree/movieapp-react.git/static/js/main.57210a3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5304e13d.css",
+    "static/js/main.57210a3f.js"
+  ]
+}
